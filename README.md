@@ -1,2 +1,1 @@
-# Triangle
- Simple example
+
