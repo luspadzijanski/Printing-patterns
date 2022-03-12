@@ -4,10 +4,10 @@ def Square(numrows):
     for i in range(numrows):
         for j in range(numrows):
             if(i == 0 or i == numrows-1 or j == 0 or j == numrows-1):{
-                print('*', end = '  ')
+                print('*', end = ' ')
             }
             else:{
-                print(' ', end = '  ')
+                print(' ', end = ' ')
             }
         print()
         
